@@ -1,4 +1,4 @@
-BOOK A SESSION TO DISCUSS EMANATE HERE https://outlook.office365.com/owa/calendar/Emanate@studentncirl.onmicrosoft.com/bookings/
+Book a session to discuss Emanate with me here! https://outlook.office365.com/owa/calendar/Emanate@studentncirl.onmicrosoft.com/bookings/
 
 Hi, my name is Adam. I'm a soon to be BSc Honours Computing graduate from National College of Ireland.
 
