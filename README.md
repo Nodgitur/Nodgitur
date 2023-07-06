@@ -1,4 +1,6 @@
-Hi, my name is Adam. I'm a 1:1 BSc Honours Computing graduate from National College of Ireland.
+Hi, my name is Adam. I'm a 1:1 BSc Honours Computing graduate from National College of Ireland. If you're interested, my dissertation can be viewed in the pins within my repo.
+
+![Emanate Dissertation](Emanate Poster.png)
 
 Over the past few years of study I have developed my skills across my studies and in the indsutry. My repositories include projects from various technologies and 
 computing langauges. 
