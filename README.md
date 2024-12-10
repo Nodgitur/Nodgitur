@@ -3,6 +3,6 @@ Hi, my name is Adam. I'm a 1:1 BSc Honours Computing graduate from National Coll
 ![Emanate Dissertation](Emanate_Poster.png)
 
 Over the past few years of study I have developed my skills across my studies and in the indsutry. My repositories include projects from various technologies and 
-computing langauges. 
+computing languages. 
 
-I recently did a 5 month internship with AMS through Deloitte in the area of DevOps where I designed full stack projects and presented them to Deloitte. I would love to look to work more in this area of the industry to learn new and build upon my DevOps skills.
+My most recent project is Refreshments, which can be viewed within its repo. It is a functional recipe filter Android application that allows you to search for recipes based on ingredients criteria. 
